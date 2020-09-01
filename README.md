@@ -1,6 +1,6 @@
   ### Greetings 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinith1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=10CC17&icon_color=10CC17&text_color=10CC17&bg_color=0,ffffff,ffffff" alt="Dinith's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinith1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=10CC17&icon_color=10CC17&text_color=10CC17&bg_color=0,000,000" alt="Dinith's Github Stats">
 
 
 
